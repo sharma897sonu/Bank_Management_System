@@ -31,7 +31,7 @@ The Bank Management System is designed to automate basic banking activities and 
 
 ## How to Run the Project
 
-1. Clone the repository: ``` bash
+1. Clone the repository: ```bash
    git clone https://github.com/sharma897sonu/Bank_Management_Systemt ```
 2. Open the project in your preferred Java IDE.
 3. Create a database in MySQL:
@@ -39,7 +39,7 @@ The Bank Management System is designed to automate basic banking activities and 
 4. Import the SQL file provided in the project (if available).
 
 5. Update database credentials in the Java JDBC configuration file:
-   String url = "jdbc:mysql://localhost:3306/bank_management";
+   String url = ```bash jdbc:mysql://localhost:3306/bank_management ```;
    String username = "root";
    String password = "your_password";
 6. Run the main Java file.
