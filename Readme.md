@@ -32,7 +32,7 @@ The Bank Management System is designed to automate basic banking activities and 
 ## How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/your-username/bank-management-system.git
+   git clone https://github.com/sharma897sonu/Bank_Management_Systemt
 2. Open the project in your preferred Java IDE.
 3. Create a database in MySQL:
    CREATE DATABASE bank_management;
